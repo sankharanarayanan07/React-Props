@@ -5,6 +5,12 @@ Props (short for *properties*) allow data to be passed from a parent component t
 
 ---
 
+## 🔗 Live Demo
+
+👉 [Click here to view the live app](https://react-event-handling-rho.vercel.app/)
+
+---
+
 ## 🚀 Features
 
 - ✅ Pass data from parent to child using props
